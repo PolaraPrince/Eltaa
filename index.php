@@ -259,23 +259,7 @@
                         </div>
                         <div class="marquee-item">
                           <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
-                          <span class="title">Web Design</span>
-                        </div>
-                        <div class="marquee-item">
-                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
-                          <span class="title">UI/UX Design</span>
-                        </div>
-                        <div class="marquee-item">
-                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
-                          <span class="title">Developer</span>
-                        </div>
-                        <div class="marquee-item">
-                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
-                          <span class="title">ISO Developer</span>
-                        </div>
-                        <div class="marquee-item">
-                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
-                          <span class="title">Digital Agency</span>
+                          <span class="title">CRM Development</span>
                         </div>
                       </div>
                     </div>
@@ -400,7 +384,7 @@
                   <div class="case-studies-wrapper case-studies-style-2">
                     <div class="case-studies-item">
                       <div class="item-inner">
-                        <h3 class="case-studies-title">Gozzby</h3>
+                        <h3 class="case-studies-title">GlobeDocks International</h3>
                         <div class="case-studies-description">Some people will tell you there are four while others may tell you there are eight thing.</div>
                         <div class="case-studies-action"><a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_139)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"></path><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"></path></g><defs><clipPath id="clip0_923_139"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"></rect></clipPath></defs></svg></a></div>
                       </div>
@@ -427,33 +411,13 @@
                             <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
                             <span class="title">Digital Agency</span>
                           </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
-                            <span class="title">Web Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
-                            <span class="title">UI/UX Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
-                            <span class="title">Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
-                            <span class="title">ISO Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
-                            <span class="title">Digital Agency</span>
-                          </div>
                         </div>
                       </div>
                     </div>
                     
                     <div class="case-studies-item">
                       <div class="item-inner">
-                        <h3 class="case-studies-title">Petfluent</h3>
+                        <h3 class="case-studies-title">Jalia Engineering</h3>
                         <div class="case-studies-description">Some people will tell you there are four while others may tell you there are eight thing.</div>
                         <div class="case-studies-action"><a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_140)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"></path><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"></path></g><defs><clipPath id="clip0_923_140"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"></rect></clipPath></defs></svg></a></div>
                       </div>
@@ -480,58 +444,18 @@
                             <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
                             <span class="title">Digital Agency</span>
                           </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
-                            <span class="title">Web Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
-                            <span class="title">UI/UX Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
-                            <span class="title">Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
-                            <span class="title">ISO Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
-                            <span class="title">Digital Agency</span>
-                          </div>
                         </div>
                       </div>
                     </div>
                     <div class="case-studies-item">
                       <div class="item-inner">
-                        <h3 class="case-studies-title">Mobifluent</h3>
+                        <h3 class="case-studies-title">Thermoforge</h3>
                         <div class="case-studies-description">Some people will tell you there are four while others may tell you there are eight thing.</div>
                         <div class="case-studies-action"><a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_141)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"></path><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"></path></g><defs><clipPath id="clip0_923_141"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"></rect></clipPath></defs></svg></a></div>
                       </div>
                       <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/03.png" alt="" style="scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
                       <div class="marquee-wrapper">
                         <div class="marquee-inner">
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
-                            <span class="title">Web Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
-                            <span class="title">UI/UX Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
-                            <span class="title">Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
-                            <span class="title">ISO Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
-                            <span class="title">Digital Agency</span>
-                          </div>
                           <div class="marquee-item">
                             <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
                             <span class="title">Web Design</span>
@@ -584,26 +508,6 @@
                             <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
                             <span class="title">Digital Agency</span>
                           </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
-                            <span class="title">Web Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
-                            <span class="title">UI/UX Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
-                            <span class="title">Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
-                            <span class="title">ISO Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
-                            <span class="title">Digital Agency</span>
-                          </div>
                         </div>
                       </div>
                     </div>
@@ -616,26 +520,6 @@
                       <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/02.png" alt="" style="scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
                       <div class="marquee-wrapper">
                         <div class="marquee-inner">
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
-                            <span class="title">Web Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
-                            <span class="title">UI/UX Design</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
-                            <span class="title">Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
-                            <span class="title">ISO Developer</span>
-                          </div>
-                          <div class="marquee-item">
-                            <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
-                            <span class="title">Digital Agency</span>
-                          </div>
                           <div class="marquee-item">
                             <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
                             <span class="title">Web Design</span>
@@ -893,29 +777,29 @@
                     <div class="accordion" id="pgsaccordion">
                       <div class="accordion-item">
                         <h5 class="accordion-header" id="headingOne">
-                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">01. It turned out to be the Hope Diamond?</button>
+                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">01. How much does it costs to develop website with eltaa?</button>
                         </h5>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#pgsaccordion">
-                          <div class="accordion-body">Imagine reaching deep inside you for all the strength and wisdom that you need to make this decision today. As you do so, imagine that when you choose to make that decision that deep inside your mind you are switching off the alternative path.</div>
+                          <div class="accordion-body">The cost varies based on project's complexity and requirements. We provide personalized quotes after discussing your specific needs.</div>
                         </div>
                       </div>
                       <div class="accordion-item">
                         <h5 class="accordion-header" id="headingTwo">
                           <button
                           class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                          02. So why do we do it?
+                          02. What is typical timeline for development?
                           </button>
                         </h5>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#pgsaccordion">
-                          <div class="accordion-body">Step out on to the path to your left. Where there is no change. Instead, you continue doing what you have in the past. What will life be like about staying on this path. Walk out into your future to the 10 year point.</div>
+                          <div class="accordion-body">Timeline depends on project scope. We work closely with clients to establish realistic deadines and ensure timely delivery.</div>
                         </div>
                       </div>
                       <div class="accordion-item">
                         <h5 class="accordion-header" id="headingThree">
-                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">03. I am worried about e-mail scams...</button>
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">03. Do you provide ongoing support and maintenance after the project is launched?</button>
                         </h5>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#pgsaccordion">
-                          <div class="accordion-body"> Walk out 10 years into your future and feel how it feels to carry on doing the same thing. I want you to think about how you will feel in 10 years if you continue doing the exact same things you have done to date. What will your daily life  be like? </div>
+                          <div class="accordion-body">Yes, we offer post-launch support and maintenance services to address any issues and keep your project up-to-date</div>
                         </div>
                       </div>
                       <div class="accordion-item">
@@ -982,73 +866,7 @@
 
       <!--=================================
       Site Footer -->
-      <footer class="site-footer footer-dark">
-        <div class="footer-main">
-          <div class="container">
-            <div class="row">
-              <div class="col-xl-3 col-md-5">
-                <div class="widget widget-address-info">
-                  <h5 class="widget-title">Where To Find Us</h5>
-                  <ul class="address-info-list">
-                    <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-contacts.svg" alt="" /></i><span class="info"><span>17504 Carlton Cuevas Rd </span>Gulfport, MS, 39503</span></li>
-                    <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-headphone.svg" alt="" /></i><span class="info"><span>+91 9978886614 </span>Mon-fri 8:30am 6:30pm</span></li>
-                    <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-email.svg" alt="" /></i><span class="info"><span>Info@eltaa.com </span>24x7 online support</span></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-xl-5 col-md-7">
-                <div class="widget">
-                  <h5 class="widget-title">Newsletter</h5>
-                  <div class="widget widget-newsletter mb-4 pb-2">
-                    <form class="newsletter-form">
-                      <input type="text" class="form-control" placeholder="Enter Your Email">
-                      <button type="submit" class="subscribe-btn"><i class="fa-solid fa-paper-plane"></i></button>
-                    </form>
-                  </div>
-                  <div class="widget widget-menu">
-                    <h6 class="widget-title">Quick Links</h6>
-                    <ul class="list-unstyled list-col-3 mb-0">
-                      <li><a href="index.php">Home</a></li>
-                      <li><a href="about-us.php">About us</a></li>
-                      <li><a href="team.php">Team</a></li>
-                      <li><a href="team-single.php">Team Single</a></li>
-                      <li><a href="service.php">Service</a></li>
-                      <li><a href="service-detail.php">Service Single</a></li>
-                      <li><a href="blog.php">Blog</a></li>
-                      <li><a href="blog-detail.php">Blog Single</a></li>
-                      <li><a href="contact-us.php">Contact</a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xl-3 col-md-12 ms-auto">
-                <div class="widget widget-info">
-                  <h5 class="widget-title">Call us on</h5>
-                  <a class="number" href="tel:+1800555500">+91 8128505330</a>
-                  <h6 class="title">and get a free estimate</h6>
-                </div>
-                <div class="widget-socail">
-                  <ul class="socail-icon">
-                    <li><a href="#">Fb</a></li>
-                    <li><a href="#">Dr</a></li>
-                    <li><a href="#">Tw</a></li>
-                    <li><a href="#">Be</a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <div class="footer-copyright">
-          <div class="container">
-            <div class="row align-items-center">
-              <div class="col-lg-6"><p><a class="footer-logo" href="index.php"><img class="img-fluid" src="images/logo.svg" alt="logo" /></a></p></div>
-              <div class="col-lg-6 text-lg-end"><p>Develop and design by <a target="_blank" href="https://eltaa.com">Eltaa Innovations</a></p></div>
-            </div>
-          </div>
-        </div>
-      </footer>
+          <?php include 'footer.php'; ?>
 
       <!--=================================
       Back To Top -->

@@ -16,7 +16,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
       <header class="header header-default header-sticky">
         <div class="header-inner">
           <div class="site-logo">
-            <a class="navbar-brand" href="index.php"><img class="img-fluid" src="" alt="Eltaa" /></a>
+            <a class="navbar-brand" href="index.php"><img class="img-fluid" src="" alt="" />Eltaa</a>
           </div>
           <div class="site-menu d-none d-xl-block">
             <ul class="main-menu">
@@ -153,8 +153,8 @@ $current_page = basename($_SERVER['PHP_SELF']);
             </nav>
             <div class="bottom-info">
               <div class="contact-info">
-                <span class="number">+1 234 567 8910</span>
-                <a class="mail" href="#"><i class="fa-regular fa-envelope"></i>info@gmail.com</a>
+                <span class="number">+91 9978886614</span>
+                <a class="mail" href="#"><i class="fa-regular fa-envelope"></i>info@eltaa.com</a>
                 <span class="text">Looking for collaboration for your next creative project?</span>
               </div>
             </div>
@@ -184,8 +184,8 @@ $current_page = basename($_SERVER['PHP_SELF']);
               </ul>
             </div>
             <div class="contact-info">
-              <span class="number">+1 234 567 8910</span>
-              <a class="mail" href="#"><i class="fa-regular fa-envelope"></i>info@gmail.com</a>
+              <span class="number">+91 9978886614</span>
+              <a class="mail" href="#"><i class="fa-regular fa-envelope"></i>info@eltaa.com</a>
               <span class="text">Looking for collaboration for your next creative project?</span>
             </div>
           </div>
