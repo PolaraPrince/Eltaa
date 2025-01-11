@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
   
-<!-- Mirrored from themes.potenzaglobalsolutions.com/html/it-infinite/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Jan 2025 18:08:40 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="HTML5 Template">
@@ -47,7 +46,7 @@
         <div class="main-banner main-banner-1">
           <div class="banner-inner">
             <img class="img-fluid banner-bg-one" src="images/banner/banner-01/banner-bg-01.png" alt="#">
-            <h1 class="banner-title">Infinite</h1>
+            <h1 class="banner-title">Eltaa..!</h1>
             <div class="container">
               <div class="row">
                 <div class="col-md-6">
@@ -56,7 +55,7 @@
                 <div class="col-md-6 ms-auto">
                   <div class="banner-content">
                     <h2>Creative solutions real results</h2>
-                    <a class="btn btn-effect" href="#">
+                    <a class="btn btn-effect" href="contact-us.php">
                       <span>Get A Quote</span>
                       <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_59_253)"><path d="M19.4854 11.4293L17.0513 12.221C13.1214 13.4993 10.3036 16.9595 9.84784 21.0668C9.49371 16.981 6.71926 13.5081 2.81255 12.2604L0.210283 11.4293" stroke="white" stroke-width="2"/><path d="M9.83594 20.8889L9.83594 0" stroke="white" stroke-width="2"/></g><defs><clipPath id="clip0_59_253"><rect width="21.3333" height="20" fill="white" transform="translate(20) rotate(90)"/></clipPath></defs></svg>
                     </a>
@@ -68,54 +67,161 @@
         </div>
 
         <div class="content-wrapper">
+<!--=================================
+          WHAT WE DO -->
+           <section class="space-ptb">
+            <div class="container">
+              <div class="row">
+                <div class="col-xxl-7 col-lg-8">
+                  <div class="section-title mb-lg-0">
+                    <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> WHAT WE DO</span>
+                    <h2 class="title mb-0">This is what we do and we do it perfectly.</h2>
+                  </div>
+                </div>
+                 <div class="col-xxl-5 col-lg-4 align-self-end">
+                  <p class="mb-0 ps-xxl-5">This is what we do, executed with perfection. Our dedication and expertise ensure every detail is flawless, setting the standard in our pursuit of excellence.</p>
+                 </div>
+              </div>
 
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="services grid-wrapper grid-xl-4 grid-md-2 grid-sm-1 grid-gap-0  mt-5 pt-lg-4">
+                    <div class="service-bottom-space service-wrapper service-style-2 "><div class="service-inner">
+                      <div class="service-icon">
+                       <img class="img-fluid" src="images/svg/services/Information-Security.svg" alt="#">
+                      </div>
+                      <div class="service-content">
+                        <h5 class="service-title">Web Development</h5>
+                        <div class="list-wrapper">
+                          <ul class="step-list list">
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Custom design</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Front-End development</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Business intelligence</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div></div>
+                    <div class="service-wrapper service-style-2 service-top-space"><div class="service-inner">
+                      <div class="service-icon">
+                        <img class="img-fluid" src="images/svg/services/Data-Synchronization.svg" alt="#">
+                      </div>
+                      <div class="service-content">
+                        <h5 class="service-title">Mobile Development</h5>
+                        <div class="list-wrapper">
+                          <ul class="step-list list">
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">iOS</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Android</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Hybrid platform</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div></div>
+                    <div class="service-wrapper service-style-2 service-bottom-space"><div class="service-inner">
+                      <div class="service-icon">
+                         <img class="img-fluid" src="images/svg/services/Mobile-Platforms.svg" alt="#">
+                      </div>
+                      <div class="service-content">
+                        <h5 class="service-title">Branding Services</h5>
+                        <div class="list-wrapper">
+                          <ul class="step-list list">
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Logo design</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">UI/UX design</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Visual design</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div></div>
+                    <div class="service-wrapper service-style-2 service-top-space"><div class="service-inner">
+                      <div class="service-icon">
+                        <img class="img-fluid" src="images/svg/services/Process-Automation.svg" alt="#">
+                      </div>
+                      <div class="service-content">
+                        <h5 class="service-title">Digital Marketing</h5>
+                        <div class="list-wrapper">
+                          <ul class="step-list list">
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Marketing Strategy</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Paid Media</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="">Influencer Marketing</li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                   </div>
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+          </section>
+          <!--=================================
+          WHAT WE DO -->
           <!--=================================
           About Info -->
           <section class="space-pt">
             <div class="container">
-              <div class="row justify-content-between">
 
-                <div class="col-lg-7 mb-5 mb-lg-0">
-                  <div class="section-title pb-0 pb-lg-4">
-                    <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> About Us</span>
-                    <h2 class="title"> Your experience is everything to us </h2>
+              <div class="row">
+                <div class="col-xxl-7 col-lg-8">
+                  <div class="section-title mb-lg-0">
+                    <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt="">About Us</span>
+                    <h2 class="title mb-0">Your experience is everything to us</h2>
                   </div>
+                </div>
+                <div class="col-xxl-5 col-lg-4 align-self-end">
+                  <p class="mb-0 ps-xxl-5">This is what we do, executed with perfection. Our dedication and expertise ensure every detail is flawless, setting the standard in our pursuit of excellence.</p>
+                </div>
+              </div>
 
-                  <div class="row">
-                    <div class="col-sm-4">
-                      <img class="img-fluid" src="images/about/about-03.jpg" alt="#">
+              <div class="row justify-content-between mt-5 pt-2">
+                <div class="col-lg-5 mb-5 mb-lg-0">
+                    <img class="img-fluid pe-5" src="images/about/about-07.jpg" alt="">
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                  <div class="about-details">
+                    <div class="rated-reviews-2">
+                      <h6>
+                        <span>5<i class="fa-solid fa-star"></i></span>
+                        <span class="review-detail">Rated 4.80 out of 5 based on over <a href="#"> 1000+ reviews</a></span>
+                      </h6>
                     </div>
-                    <div class="col-sm-8">
-                      <p class="ps-lg-3 mt-4 mt-sm-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                      <div class="d-flex justify-content-center mt-5 ms-sm-5 ms-0">
-                        <a class="btn btn-effect" href="#">
-                          <span>About Us</span>
-                          <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_59_254)"><path d="M19.4854 11.4293L17.0513 12.221C13.1214 13.4993 10.3036 16.9595 9.84784 21.0668C9.49371 16.981 6.71926 13.5081 2.81255 12.2604L0.210283 11.4293" stroke="white" stroke-width="2"/><path d="M9.83594 20.8889L9.83594 0" stroke="white" stroke-width="2"/></g><defs><clipPath id="clip0_59_254"><rect width="21.3333" height="20" fill="white" transform="translate(20) rotate(90)"/></clipPath></defs></svg>
-                        </a>
+                    <div class="list-wrapper">
+                      <ul class="list">
+                        <li><img class="img-fluid" src="images/arrow-right.png" alt="">Marketing Strategy</li>
+                        <li><img class="img-fluid" src="images/arrow-right.png" alt="">Paid Media</li>
+                        <li><img class="img-fluid" src="images/arrow-right.png" alt="">Influencer Marketing</li>
+                        <li><img class="img-fluid" src="images/arrow-right.png" alt="">Marketing Strategy</li>
+                      </ul>
+                    </div>
+                    <div class="row">
+                      <div class="col-xxl-9">
+                        <div class="counter counter-style-1">
+                          <div class="counter-number"><span class="timer mb-0" data-to="240" data-speed="2000">240</span><span class="suffix">+</span></div>
+                          <div class="counter-info"><span class="counter-title">Business Peoples</span></div>
+                        </div>
                       </div>
-                    </div>
-                  </div>
-
-                  <div class="row mt-4 mt-sm-5">
-                    <div class="col-sm-6">
-                      <div class="counter counter-style-1">
-                        <div class="counter-number"><span class="timer mb-0" data-to="240" data-speed="2000">240</span><span class="suffix">+</span></div>
-                        <div class="counter-info"><span class="counter-title">Business Peoples</span></div>
-                      </div>
-                    </div>
-                    <div class="col-sm-6">
-                      <div class="counter counter-style-1">
-                        <div class="counter-number"><span class="timer mb-0" data-to="100" data-speed="2000">100</span><span class="suffix">%</span></div>
-                        <div class="counter-info"><span class="counter-title">Customer Satisfaction</span></div>
+                      <div class="col-xxl-9">
+                        <div class="counter counter-style-1">
+                          <div class="counter-number"><span class="timer mb-0" data-to="100" data-speed="2000">100</span><span class="suffix">%</span></div>
+                          <div class="counter-info"><span class="counter-title">Customer Satisfaction</span></div>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                
-                <div class="col-lg-5">
-                  <img class="img-fluid ps-lg-5" src="images/about/about-01.jpg" alt="#">
+                <div class="col-lg-3 col-md-4 col-sm-5">
+                  <div class="about-right">
+                    <div class="about-img">
+                      <img class="img-fluid" src="images/about/about-08.png" alt="">
+                    </div>
+                    <div class="d-flex justify-content-end">
+                      <a class="btn btn-effect" href="#">
+                        <span>About Us</span>
+                        <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_59_256)"><path d="M19.4854 11.4293L17.0513 12.221C13.1214 13.4993 10.3036 16.9595 9.84784 21.0668C9.49371 16.981 6.71926 13.5081 2.81255 12.2604L0.210283 11.4293" stroke="white" stroke-width="2"/><path d="M9.83594 20.8889L9.83594 0" stroke="white" stroke-width="2"/></g><defs><clipPath id="clip0_59_256"><rect width="21.3333" height="20" fill="white" transform="translate(20) rotate(90)"/></clipPath></defs></svg>
+                      </a>
+                    </div>
+                  </div>
                 </div>
-
               </div>
             </div>
           </section>
@@ -124,51 +230,53 @@
 
           <!--=================================
           Client Logo -->
-          <div class="space-medium-ptb">
+          <div class="space-ptb">
             <div class="container-fluid p-0">
               <div class="row g-0">
                 <div class="col-md-12">
-                  <div class="marquee-wrapper">
-                    <div class="marquee-inner">
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
-                        <span class="title">Web Design</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
-                        <span class="title">UI/UX Design</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
-                        <span class="title">Developer</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
-                        <span class="title">ISO Developer</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
-                        <span class="title">Digital Agency</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
-                        <span class="title">Web Design</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
-                        <span class="title">UI/UX Design</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
-                        <span class="title">Developer</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
-                        <span class="title">ISO Developer</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
-                        <span class="title">Digital Agency</span>
+                  <div class="marquee-bg">
+                    <div class="marquee-wrapper">
+                      <div class="marquee-inner">
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
+                          <span class="title">Web Design</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
+                          <span class="title">UI/UX Design</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
+                          <span class="title">Developer</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
+                          <span class="title">ISO Developer</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
+                          <span class="title">Digital Agency</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
+                          <span class="title">Web Design</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
+                          <span class="title">UI/UX Design</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
+                          <span class="title">Developer</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
+                          <span class="title">ISO Developer</span>
+                        </div>
+                        <div class="marquee-item">
+                          <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
+                          <span class="title">Digital Agency</span>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -180,122 +288,81 @@
           Client Logo -->
 
           <!--=================================
-          Our Services -->
-          <section class="space-pt bg-black z-index-2 ellipse-top">
-            <div class="space-pb ellipse-bottom">
-              <div class="container">
-                <div class="row justify-content-between">
-                  <div class="col-xxl-5 col-xl-5 mb-5 mb-xl-0">
-                    <div class="sticky-top" style="top: 80px;">
-                      <div class="section-title">
-                        <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> Our Steps</span>
-                        <h2 class="title"> Digital marketing services that help you grow.</h2>
+          Steps -->
+          <section class="space-ptb  z-index-2 bg-black ellipse-top">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-7">
+                  <div class="sticky-top" style="top: 80px;">
+                    <div class="section-title mb-0">
+                      <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt="" /> How It Works</span>
+                      <h2 class="title">Smart strategy & excellent performance</h2>
+                    </div>
+                    <div class="ps-xxl-5 ms-0 ms-md-5 pb-5 pb-lg-0">
+                      <p class="mb-5">We all carry a lot of baggage, thanks to our upbringing. The majority of people carry with them, an entire series of self-limiting beliefs.</p>
+                      <a class="btn btn-effect" href="#">
+                        <span>Get Started</span>
+                        <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_59_255)"><path d="M19.4854 11.4293L17.0513 12.221C13.1214 13.4993 10.3036 16.9595 9.84784 21.0668C9.49371 16.981 6.71926 13.5081 2.81255 12.2604L0.210283 11.4293" stroke="white" stroke-width="2"/><path d="M9.83594 20.8889L9.83594 0" stroke="white" stroke-width="2"/></g><defs><clipPath id="clip0_59_255"><rect width="21.3333" height="20" fill="white" transform="translate(20) rotate(90)"/></clipPath></defs></svg>
+                      </a>
+                     </div>
+                  </div>
+                </div>
+                <div class="col-lg-5">
+                  <div class="steps-wrapper">
+                    <div class="steps-item">
+                      <div class="step-arrow">
+                        <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_136)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_136"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
                       </div>
-                      <div class="ps-xxl-5 ms-0 ms-md-5">
-                        <p>We all know that nothing moves until someone makes a decision. The first action is always in making the decision to proceed. which most people overlook, we don’t do it intentionally or with malice.</p>
+                      <div class="step-info">
+                        <span class="step-number">Step 01</span>
+                        <h3 class="step-title">Let us know your need</h3>
+                        <p>The bottom line is that we must shed the bad and replace with good beliefs.</p>
+                        <div class="list-wrapper">
+                          <ul class="step-list list col-2">
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />E-commerce strategy</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Business intelligence</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Custom design</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Android</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Brand collateral</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Front-End development</li>
+                          </ul>
+                        </div>
+                        <div class="step-image"><img class="img-fluid" src="images/steps/01.png" alt=""></div>
                       </div>
                     </div>
-                  </div>
-                  <div class="col-xxl-6 col-xl-7">
-                    <div class="row">
-                      <div class="col-sm-6">
-                        <div class="services grid-wrapper">
-                          <div class="service-wrapper service-style-1"><div class="service-inner">
-                            <div class="service-icon">
-                              <img class="img-fluid" src="images/svg/services/Information-Security.svg" alt="#">
-                            </div>
-                            <div class="bg-icon">
-                              <img class="img-fluid" src="images/svg/services/color-icon/Information-Security.svg" alt="#">
-                            </div>
-                            <div class="service-content">
-                              <h5 class="service-title">Information Security</h5>
-                              <p>Remind yourself of someone you know who died suddenly and the fact that there is no guarantee that tomorrow</p>
-                              <div class="service-links">
-                                <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_133)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_133"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
-                              </div>
-                            </div>
-                          </div></div>
-                          <div class="service-wrapper service-style-1"><div class="service-inner">
-                            <div class="service-icon">
-                              <img class="img-fluid" src="images/svg/services/Data-Synchronization.svg" alt="#">
-                            </div>
-                            <div class="bg-icon">
-                              <img class="img-fluid" src="images/svg/services/color-icon/Data-Synchronization.svg" alt="#">
-                            </div>
-                            <div class="service-content">
-                              <h5 class="service-title">Data Synchronization</h5>
-                              <p>Remind yourself of someone you know who died suddenly and the fact that there is no guarantee that tomorrow</p>
-                              <div class="service-links">
-                                <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_134)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_134"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
-                              </div>
-                            </div>
-                          </div></div>
-                          <div class="service-wrapper service-style-1"><div class="service-inner">
-                            <div class="service-icon">
-                              <img class="img-fluid" src="images/svg/services/Event-Processing.svg" alt="#">
-                            </div>
-                            <div class="bg-icon">
-                              <img class="img-fluid" src="images/svg/services/color-icon/Event-Processing.svg" alt="#">
-                            </div>
-                            <div class="service-content">
-                              <h5 class="service-title">Event Processing</h5>
-                              <p>There is really no magic to it and it’s not reserved only for a select few people. As such, success really has nothing.</p>
-                              <div class="service-links">
-                                <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_135)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_135"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
-                              </div>
-                            </div>
-                          </div></div>
-                        </div>
+                    <div class="steps-item">
+                      <div class="step-arrow">
+                        <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_137)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_137"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
                       </div>
-                      <div class="col-sm-6">
-                        <div class="services grid-wrapper service-top-space">
-                          <div class="service-wrapper service-style-1"><div class="service-inner">
-                            <div class="service-icon">
-                              <img class="img-fluid" src="images/svg/services/Process-Automation.svg" alt="#">
-                            </div>
-                            <div class="bg-icon">
-                              <img class="img-fluid" src="images/svg/services/color-icon/Process-Automation.svg" alt="#">
-                            </div>
-                            <div class="service-content">
-                              <h5 class="service-title">Process Automation</h5>
-                              <p>It must come from the natural product of your desire to achieve something and your belief that you are capable.</p>
-                              <div class="service-links">
-                                <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_136)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_136"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
-                              </div>
-                            </div>
-                          </div></div>
-                          <div class="service-wrapper service-style-1"><div class="service-inner">
-                            <div class="service-icon">
-                              <img class="img-fluid" src="images/svg/services/Mobile-Platforms.svg" alt="#">
-                            </div>
-                            <div class="bg-icon">
-                              <img class="img-fluid" src="images/svg/services/color-icon/Mobile-Platforms.svg" alt="#">
-                            </div>
-                            <div class="service-content">
-                              <h5 class="service-title">Mobile Platforms</h5>
-                              <p>There is really no magic to it and it’s not reserved only for a select few people. As such, success really has nothing.</p>
-                              <div class="service-links">
-                                <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_137)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_137"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
-                              </div>
-                            </div>
-                          </div></div>
-                          <div class="service-wrapper service-style-1"><div class="service-inner">
-                            <div class="service-icon">
-                              <img class="img-fluid" src="images/svg/services/Content-Management.svg" alt="#">
-                            </div>
-                            <div class="bg-icon">
-                              <img class="img-fluid" src="images/svg/services/color-icon/Content-Management.svg" alt="#">
-                            </div>
-                            <div class="service-content">
-                              <h5 class="service-title">Content Management</h5>
-                              <p>It must come from the natural product of your desire to achieve something and your belief that you are capable.</p>
-                              <div class="service-links">
-                                <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_138)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_138"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
-                              </div>
-                            </div>
-                          </div>
-                         </div>
+                      <div class="step-info">
+                        <span class="step-number">Step 02</span>
+                        <h3 class="step-title">Meet the team</h3>
+                        <p>“Nothing changes until something moves” – this is the battle cry of author and journalist Robert Ringer.</p>
+                        <div class="list-wrapper">
+                          <ul class="step-list list col-2">
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />E-commerce strategy</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Business intelligence</li>
+                          </ul>
                         </div>
+                        <div class="step-image"><img class="img-fluid" src="images/steps/02.png" alt=""></div>
+                      </div>
+                    </div>
+                    <div class="steps-item">
+                      <div class="step-arrow">
+                        <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_923_138)"><path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2"/><path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2"/></g><defs><clipPath id="clip0_923_138"><rect width="15.904" height="14.8437" fill="inherit" transform="translate(0.1875 0.578125)"/></clipPath></defs></svg></a>
+                      </div>
+                      <div class="step-info">
+                        <span class="step-number">Step 03</span>
+                        <h3 class="step-title">Find Your Ideal Itinfinite</h3>
+                        <p>Get the oars in the water and start rowing. Execution is the single biggest factor in achievement.</p>
+                        <div class="list-wrapper">
+                          <ul class="step-list list col-2">
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Digital PR</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Technical Operations</li>
+                            <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Accounting Outsourcing</li>
+                          </ul>
+                        </div>
+                        <div class="step-image"><img class="img-fluid" src="images/steps/03.png" alt=""></div>
                       </div>
                     </div>
                   </div>
@@ -304,7 +371,7 @@
             </div>
           </section>
           <!--=================================
-          Our Services -->
+          Steps -->
 
           <!--=================================
           Case Studies -->
@@ -732,7 +799,7 @@
                         <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
                       </div>
                       <div class="team-info">
-                        <a href="team-detail.html" class="team-title">Anne Smith</a>
+                        <a href="team-detail.php" class="team-title">Anne Smith</a>
                         <span class="team-destination">Officer</span>
                         <div class="team-social">
                           <ul>
@@ -750,7 +817,7 @@
                         <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
                       </div>
                       <div class="team-info">
-                        <a href="team-detail.html" class="team-title">John Doe</a>
+                        <a href="team-detail.php" class="team-title">John Doe</a>
                         <span class="team-destination">Director</span>
                         <div class="team-social">
                           <ul>
@@ -768,7 +835,7 @@
                         <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
                       </div>
                       <div class="team-info">
-                        <a href="team-detail.html" class="team-title">Mellissa Doe</a>
+                        <a href="team-detail.php" class="team-title">Mellissa Doe</a>
                         <span class="team-destination">Analyst</span>
                         <div class="team-social">
                           <ul>
@@ -786,7 +853,7 @@
                         <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
                       </div>
                       <div class="team-info">
-                        <a href="team-detail.html" class="team-title">Paul Flavius</a>
+                        <a href="team-detail.php" class="team-title">Paul Flavius</a>
                         <span class="team-destination">Coordinator</span>
                         <div class="team-social">
                           <ul>
@@ -924,8 +991,8 @@
                   <h5 class="widget-title">Where To Find Us</h5>
                   <ul class="address-info-list">
                     <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-contacts.svg" alt="" /></i><span class="info"><span>17504 Carlton Cuevas Rd </span>Gulfport, MS, 39503</span></li>
-                    <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-headphone.svg" alt="" /></i><span class="info"><span>001123456789 </span>Mon-fri 8:30am 6:30pm</span></li>
-                    <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-email.svg" alt="" /></i><span class="info"><span>Info@example.com </span>24x7 online support</span></li>
+                    <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-headphone.svg" alt="" /></i><span class="info"><span>+91 9978886614 </span>Mon-fri 8:30am 6:30pm</span></li>
+                    <li><i class="icon"><img class="img-fluid" src="images/svg/address-info-email.svg" alt="" /></i><span class="info"><span>Info@eltaa.com </span>24x7 online support</span></li>
                   </ul>
                 </div>
               </div>
@@ -941,23 +1008,23 @@
                   <div class="widget widget-menu">
                     <h6 class="widget-title">Quick Links</h6>
                     <ul class="list-unstyled list-col-3 mb-0">
-                      <li><a href="index.html">Home</a></li>
-                      <li><a href="about-us.html">About us</a></li>
-                      <li><a href="team.html">Team</a></li>
-                      <li><a href="team-single.html">Team Single</a></li>
-                      <li><a href="service.html">Service</a></li>
-                      <li><a href="service-detail.html">Service Single</a></li>
-                      <li><a href="blog.html">Blog</a></li>
-                      <li><a href="blog-detail.html">Blog Single</a></li>
-                      <li><a href="contact-us.html">Contact</a></li>
+                      <li><a href="index.php">Home</a></li>
+                      <li><a href="about-us.php">About us</a></li>
+                      <li><a href="team.php">Team</a></li>
+                      <li><a href="team-single.php">Team Single</a></li>
+                      <li><a href="service.php">Service</a></li>
+                      <li><a href="service-detail.php">Service Single</a></li>
+                      <li><a href="blog.php">Blog</a></li>
+                      <li><a href="blog-detail.php">Blog Single</a></li>
+                      <li><a href="contact-us.php">Contact</a></li>
                     </ul>
                   </div>
                 </div>
               </div>
               <div class="col-xl-3 col-md-12 ms-auto">
                 <div class="widget widget-info">
-                  <h5 class="widget-title">Call Center</h5>
-                  <a class="number" href="tel:+1800555500">1-800-555-500</a>
+                  <h5 class="widget-title">Call us on</h5>
+                  <a class="number" href="tel:+1800555500">+91 8128505330</a>
                   <h6 class="title">and get a free estimate</h6>
                 </div>
                 <div class="widget-socail">
@@ -976,8 +1043,8 @@
         <div class="footer-copyright">
           <div class="container">
             <div class="row align-items-center">
-              <div class="col-lg-6"><p><a class="footer-logo" href="index.html"><img class="img-fluid" src="images/logo.svg" alt="logo" /></a></p></div>
-              <div class="col-lg-6 text-lg-end"><p>Develop and design by <a href="#">Potenza Global Solutions</a></p></div>
+              <div class="col-lg-6"><p><a class="footer-logo" href="index.php"><img class="img-fluid" src="images/logo.svg" alt="logo" /></a></p></div>
+              <div class="col-lg-6 text-lg-end"><p>Develop and design by <a target="_blank" href="https://eltaa.com">Eltaa Innovations</a></p></div>
             </div>
           </div>
         </div>
@@ -1012,5 +1079,5 @@
     <script src="js/custom.js"></script> <!-- Template Scripts (Do not remove)-->
   </body>
 
-<!-- Mirrored from themes.potenzaglobalsolutions.com/html/it-infinite/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Jan 2025 18:08:59 GMT -->
+<!-- Mirrored from themes.potenzaglobalsolutions.com/html/it-infinite/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Jan 2025 18:08:59 GMT -->
 </html>
