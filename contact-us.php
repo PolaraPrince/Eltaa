@@ -260,7 +260,7 @@
 
       <!--=================================
       Site Footer -->
-      <?php include 'footer.php'; ?>
+      x   <?php include 'footer.php'; ?>
 
       <!--=================================
       Back To Top -->
