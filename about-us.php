@@ -1,29 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
   
-<!-- Mirrored from themes.potenzaglobalsolutions.com/html/it-infinite/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Jan 2025 18:09:11 GMT -->
-<head>
-    <meta charset="utf-8">
-    <meta name="keywords" content="HTML5 Template">
-    <meta name="description" content="IT Infinite - IT Solutions and Services Company HTML5 Template">
-    <meta name="author" content="potenzaglobalsolutions.com">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>IT Infinite - IT Solutions and Services Company HTML5 Template</title>
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&amp;family=Russo+One&amp;display=swap" rel="stylesheet">
-
-    <!-- CSS Global Compulsory (Do not remove)-->
-    <link rel="stylesheet" href="css/font-awesome/all.min.css">
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css">
-    <!-- Page CSS Implementing Plugins (Remove the plugin CSS here if site does not use that feature)-->
-    <link rel="stylesheet" href="css/owl-carousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/swiper/swiper.min.css">
-    <link rel="stylesheet" href="css/magnific-popup/magnific-popup.css">
-    <!-- Template Style -->
-    <link rel="stylesheet" href="css/style.css">
-  </head>
+<?php include 'commonHead.php'; ?>
   <body>
 
     <?php include 'header.php'; ?>
@@ -50,7 +28,7 @@
               </ul>
             </div>
             <div class="contact-info">
-              <span class="number">+1 234 567 8910</span>
+              <span class="number">+91 9978886614</span>
               <a class="mail" href="#"><i class="fa-regular fa-envelope"></i>info@gmail.com</a>
               <span class="text">Looking for collaboration for your next creative project?</span>
             </div>
@@ -77,7 +55,7 @@
           <div class="container">
             <div class="row  justify-content-center">
               <div class="col-md-12 text-center">
-                <h1 class="title">About ITinfinite</h1>
+                <h1 class="title">About Eltaa</h1>
                 <p>Our Expertise. Know more about what we do</p>
               </div>
             </div>
@@ -101,10 +79,10 @@
                         <img class="img-fluid" src="images/about/about-03.jpg" alt="#">
                      </div>
                      <div class="col-sm-8">
-                      <p class="ps-lg-3 mt-4 mt-sm-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                      <p class="ps-lg-3 mt-4 mt-sm-0">At Eltaa, we transform businesses with innovative IT solutions, blending cutting-edge technology with a personalized approach. Our expertise drives efficiency, growth, and success, empowering you to thrive in a digital-first world.</p>
                      <div class="d-flex justify-content-center mt-5 ms-sm-5 ms-0">
-                       <a class="btn btn-effect" href="#">
-                        <span>About Us</span>
+                       <a class="btn btn-effect" href="contact-us.php">
+                        <span>Get Quote</span>
                         <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_59_253)"><path d="M19.4854 11.4293L17.0513 12.221C13.1214 13.4993 10.3036 16.9595 9.84784 21.0668C9.49371 16.981 6.71926 13.5081 2.81255 12.2604L0.210283 11.4293" stroke="white" stroke-width="2"/><path d="M9.83594 20.8889L9.83594 0" stroke="white" stroke-width="2"/></g><defs><clipPath id="clip0_59_253"><rect width="21.3333" height="20" fill="white" transform="translate(20) rotate(90)"/></clipPath></defs></svg>
                        </a>
                       </div>
@@ -259,106 +237,6 @@
           </section>
           <!--=================================
           History -->
-
-          <!--=================================
-          Our Staff -->
-          <section class="space-ptb bg-black z-index-2">
-            <div class="container">
-              <div class="row">
-                <div class="col-xxl-6 col-lg-8">
-                  <div class="section-title mb-lg-0">
-                    <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> Our Staff</span>
-                    <h2 class="title mb-0">Our team is friendly, talkative, and fully reliable.</h2>
-                  </div>
-                </div>
-                 <div class="col-xxl-6 col-lg-4 align-self-end">
-                  <p class="mb-0 ps-xxl-5">So, make the decision to move forward. Commit your decision to paper, just to bring it into focus. Then, go for it!</p>
-                 </div>
-              </div>
-
-              <div class="row mt-xl-5 pt-5">
-                <div class="col-md-12">
-                  <div class="team-boxs grid-wrapper grid-xl-4 grid-lg-3 grid-md-2 grid-sm-2 grid-xs-1">
-                    <div class="team-item team-style-1">
-                      <div class="team-img">
-                        <img class="img-fluid" src="images/team/01.jpg" alt="" />
-                        <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
-                      </div>
-                      <div class="team-info">
-                        <a href="team-detail.html" class="team-title">Anne Smith</a>
-                        <span class="team-destination">Officer</span>
-                        <div class="team-social">
-                          <ul>
-                            <li><a href="#">Fb</a></li>
-                            <li><a href="#">Dr</a></li>
-                            <li><a href="#">Tw</a></li>
-                            <li><a href="#">Be</a></li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="team-item team-style-1">
-                      <div class="team-img">
-                        <img class="img-fluid" src="images/team/02.jpg" alt="" />
-                        <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
-                      </div>
-                      <div class="team-info">
-                        <a href="team-detail.html" class="team-title">John Doe</a>
-                        <span class="team-destination">Director</span>
-                        <div class="team-social">
-                          <ul>
-                            <li><a href="#">Fb</a></li>
-                            <li><a href="#">Dr</a></li>
-                            <li><a href="#">Tw</a></li>
-                            <li><a href="#">Be</a></li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="team-item team-style-1">
-                      <div class="team-img">
-                        <img class="img-fluid" src="images/team/03.jpg" alt="" />
-                        <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
-                      </div>
-                      <div class="team-info">
-                        <a href="team-detail.html" class="team-title">Mellissa Doe</a>
-                        <span class="team-destination">Analyst</span>
-                        <div class="team-social">
-                          <ul>
-                            <li><a href="#">Fb</a></li>
-                            <li><a href="#">Dr</a></li>
-                            <li><a href="#">Tw</a></li>
-                            <li><a href="#">Be</a></li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="team-item team-style-1">
-                      <div class="team-img">
-                        <img class="img-fluid" src="images/team/04.jpg" alt="" />
-                        <div class="image-overlay"><img class="img-fluid" src="images/team/symbol.png" alt="" /></div>
-                      </div>
-                      <div class="team-info">
-                        <a href="team-detail.html" class="team-title">Paul Flavius</a>
-                        <span class="team-destination">Coordinator</span>
-                        <div class="team-social">
-                          <ul>
-                            <li><a href="#">Fb</a></li>
-                            <li><a href="#">Dr</a></li>
-                            <li><a href="#">Tw</a></li>
-                            <li><a href="#">Be</a></li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-            </div>
-          </section>
-          <!--=================================
-          Our Staff -->
 
           <!--=================================
           Our Testimonial -->
