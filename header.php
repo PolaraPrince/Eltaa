@@ -46,20 +46,20 @@ $current_page = basename($_SERVER['PHP_SELF']);
               <li><a class="nav-link" href="coming-soon.php">Coming Soon</a></li>
             </ul>
           </li> -->
-          <li class="nav-item" <?php if ($current_page == 'service.php' || $current_page == 'service-detail.php') echo 'class="active"' ?>><a class="nav-link" href="service.php">Service</i></a>
+          <li class="nav-item <?= ($current_page == 'service.php') ? 'active' : '' ?>"><a class="nav-link" href="service.php">Service</i></a>
             <!-- <ul class="submenu">
               <li><a class="nav-link" href="service.php">Service</a></li>
               <li><a class="nav-link" href="service-detail.php">Service Single</a></li>
             </ul> -->
           </li>
-          <li class="nav-item <?= ($current_page == 'about-us.php') ? 'active' : '' ?>"><a class="nav-link" href="Projects.php">Projects</a></li>
+          <li class="nav-item <?= ($current_page == 'Projects.php') ? 'active' : '' ?>"><a class="nav-link" href="Projects.php">Projects</a></li>
           <!-- <li class="nav-item <?php if ($current_page == 'case-studies.php' || $current_page == 'case-studies-detail.php') echo 'active' ?>"><a class="nav-link" href="#">Case Studies <i class="fa-solid fa-chevron-down"></i></a>
                 <ul class="submenu">
                   <li><a class="nav-link" href="case-studies.php">Case Studies</a></li>
                   <li><a class="nav-link" href="case-studies-detail.php">Case Studies Single</a></li>
                 </ul>
               </li> -->
-          <li class="nav-item" <?php if ($current_page == 'blog.php' || $current_page == 'blog-detail.php') echo 'class="active"' ?>><a class="nav-link" href="blog.php">Blog</i></a>
+          <li class="nav-item <?= ($current_page == 'blog.php') ? 'active' : '' ?>"><a class="nav-link" href="blog.php">Blog</i></a>
             <!-- <ul class="submenu">
               <li><a class="nav-link" href="blog.php">Blog Standard</a></li>
               <li><a class="nav-link" href="blog-detail.php">Blog Single</a></li>

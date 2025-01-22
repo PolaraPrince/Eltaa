@@ -179,24 +179,24 @@
                 <div class="rated-reviews-2">
                   <h6>
                     <span>5<i class="fa-solid fa-star"></i></span>
-                    <span class="review-detail">Rated 4.80 out of 5 based on over <a href="#"> 1000+ reviews</a></span>
+                    <span class="review-detail">Rated 4.80 out of 5 based on over <a href="#"> 100+ reviews</a></span>
                   </h6>
                 </div>
                 <div class="list-wrapper">
                   <ul class="list">
-                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">Marketing Strategy</li>
-                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">Paid Media</li>
-                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">Influencer Marketing</li>
-                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">Marketing Strategy</li>
+                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">Web Development</li>
+                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">App Development</li>
+                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">ERP and CRM Solutions</li>
+                    <li><img class="img-fluid" src="images/arrow-right.png" alt="">Branding Services</li>
                   </ul>
                 </div>
                 <div class="row">
-                  <div class="col-xxl-9">
+                  <!-- <div class="col-xxl-9">
                     <div class="counter counter-style-1">
                       <div class="counter-number"><span class="timer mb-0" data-to="240" data-speed="2000">240</span><span class="suffix">+</span></div>
                       <div class="counter-info"><span class="counter-title">Business Peoples</span></div>
                     </div>
-                  </div>
+                  </div> -->
                   <div class="col-xxl-9">
                     <div class="counter counter-style-1">
                       <div class="counter-number"><span class="timer mb-0" data-to="100" data-speed="2000">100</span><span class="suffix">%</span></div>
@@ -246,7 +246,7 @@
                   <div class="marquee-inner">
                     <div class="marquee-item">
                       <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
-                      <span class="title">Web Design</span>
+                      <span class="title">Web Development</span>
                     </div>
                     <div class="marquee-item">
                       <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt=""></span>
@@ -254,15 +254,15 @@
                     </div>
                     <div class="marquee-item">
                       <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt=""></span>
-                      <span class="title">Developer</span>
+                      <span class="title">ERP Development</span>
                     </div>
                     <div class="marquee-item">
                       <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt=""></span>
-                      <span class="title">ISO Developer</span>
+                      <span class="title">App Development</span>
                     </div>
                     <div class="marquee-item">
                       <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt=""></span>
-                      <span class="title">Digital Agency</span>
+                      <span class="title">Branding Services</span>
                     </div>
                     <div class="marquee-item">
                       <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt=""></span>
@@ -291,7 +291,7 @@
                 </div>
                 <div class="ps-xxl-5 ms-0 ms-md-5 pb-5 pb-lg-0">
                   <p class="mb-5">We all carry a lot of baggage, thanks to our upbringing. The majority of people carry with them, an entire series of self-limiting beliefs.</p>
-                  <a class="btn btn-effect" href="#">
+                  <a class="btn btn-effect" href="contact-us.php">
                     <span>Get Started</span>
                     <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <g clip-path="url(#clip0_59_255)">
@@ -312,7 +312,7 @@
               <div class="steps-wrapper">
                 <div class="steps-item">
                   <div class="step-arrow">
-                    <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <a class="btn-arrow"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g clip-path="url(#clip0_923_136)">
                           <path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2" />
                           <path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2" />
@@ -324,7 +324,7 @@
                         </defs>
                       </svg></a>
                   </div>
-                  <div class="step-info">e
+                  <div class="step-info">
                     <span class="step-number">Step 01</span>
                     <h3 class="step-title">Let us know your need</h3>
                     <p>The bottom line is that we must shed the bad and replace with good beliefs.</p>
@@ -343,7 +343,7 @@
                 </div>
                 <div class="steps-item">
                   <div class="step-arrow">
-                    <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <a class="btn-arrow"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g clip-path="url(#clip0_923_137)">
                           <path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2" />
                           <path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2" />
@@ -370,7 +370,7 @@
                 </div>
                 <div class="steps-item">
                   <div class="step-arrow">
-                    <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <a class="btn-arrow"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <g clip-path="url(#clip0_923_138)">
                           <path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2" />
                           <path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2" />
@@ -1004,9 +1004,9 @@
                 <div class="accordion" id="pgsaccordion">
                   <div class="accordion-item">
                     <h5 class="accordion-header" id="headingOne">
-                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">01. How much does it costs to develop website with eltaa?</button>
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">01. How much does it costs to develop website with eltaa?</button>
                     </h5>
-                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#pgsaccordion">
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#pgsaccordion">
                       <div class="accordion-body">The cost varies based on project's complexity and requirements. We provide personalized quotes after discussing your specific needs.</div>
                     </div>
                   </div>
@@ -1031,10 +1031,10 @@
                   </div>
                   <div class="accordion-item">
                     <h5 class="accordion-header" id="headingFour">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">04. Why IT Staff Management?</button>
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">04. Will my website be optimized for mobile devices?</button>
                     </h5>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#pgsaccordion">
-                      <div class="accordion-body">Really experience that. See what you see, hear what you hear, feel the feelings. Notice everything that you need to know about what it will be like if you carry on with the same behaviour, putting off change. Drift back to where the path splits.</div>
+                      <div class="accordion-body">Absolutely! Having a mobile-friendly website is more important than ever. We work diligently to ensure your website looks fantastic on every device.</div>
                     </div>
                   </div>
                 </div>
@@ -1043,26 +1043,26 @@
                 <div class="accordion" id="pgsaccordion1">
                   <div class="accordion-item">
                     <h5 class="accordion-header" id="headingFive">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">05. It turned out to be the Hope Diamond?</button>
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">05. Who will be in charge of creating the website's content ?</button>
                     </h5>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#pgsaccordion1">
-                      <div class="accordion-body">Imagine reaching deep inside you for all the strength and wisdom that you need to make this decision today. As you do so, imagine that when you choose to make that decision that deep inside your mind you are switching off the alternative path.</div>
+                      <div class="accordion-body">Since you know your industry best, we recommend you provide the content. If you’d like help, we can connect you with a qualified content writer to produce original, tailored content at affordable rate.</div>
                     </div>
                   </div>
 
                   <div class="accordion-item">
                     <h5 class="accordion-header" id="headingSix">
                       <button
-                        class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                        06. So why do we do it?
+                        class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                        06. Can you integrate third-party tools or systems into my website?
                       </button>
                     </h5>
-                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#pgsaccordion1">
-                      <div class="accordion-body">Step out on to the path to your left. Where there is no change. Instead, you continue doing what you have in the past. What will life be like about staying on this path. Walk out into your future to the 10 year point.</div>
+                    <div id="collapseSix" class="accordion-collapse collapse show" aria-labelledby="headingSix" data-bs-parent="#pgsaccordion1">
+                      <div class="accordion-body">Yes, we can seamlessly integrate third-party tools and systems into your website to enhance its functionality. Whether it’s payment gateways, CRM systems, analytics tools, or other applications, we ensure smooth integration tailored to your specific needs.</div>
                     </div>
                   </div>
 
-                  <div class="accordion-item">
+                  <!-- <div class="accordion-item">
                     <h5 class="accordion-header" id="headingSeven">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">07. I am worried about e-mail scams...</button>
                     </h5>
@@ -1078,7 +1078,7 @@
                     <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#pgsaccordion1">
                       <div class="accordion-body">Really experience that. See what you see, hear what you hear, feel the feelings. Notice everything that you need to know about what it will be like if you carry on with the same behaviour, putting off change. Drift back to where the path splits.</div>
                     </div>
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>

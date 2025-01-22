@@ -113,16 +113,16 @@
           About Info -->
 
           <!--=================================
-          Client Logo -->
-          <div class="space-ptb ">
-            <div class="container-fluid p-0">
+          Marquee Slide -->
+            <section class="space-small-ptb overflow-hidden z-index-2 bg-black">
+             <div class="container-fluid g-0 pt-5">
               <div class="row g-0">
                 <div class="col-md-12">
-                  <div class="marquee-wrapper">
+                  <div class="marquee-wrapper marquee-border marquee-rotate">
                     <div class="marquee-inner">
                       <div class="marquee-item">
                         <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
-                        <span class="title">Web Design</span>
+                        <span class="title">Web Development</span>
                       </div>
                       <div class="marquee-item">
                         <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
@@ -130,44 +130,24 @@
                       </div>
                       <div class="marquee-item">
                         <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
-                        <span class="title">Developer</span>
+                        <span class="title">App Developer</span>
                       </div>
                       <div class="marquee-item">
                         <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
-                        <span class="title">ISO Developer</span>
+                        <span class="title">IOS Apps</span>
                       </div>
                       <div class="marquee-item">
                         <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
-                        <span class="title">Digital Agency</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
-                        <span class="title">Web Design</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
-                        <span class="title">UI/UX Design</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
-                        <span class="title">Developer</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
-                        <span class="title">ISO Developer</span>
-                      </div>
-                      <div class="marquee-item">
-                        <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
-                        <span class="title">Digital Agency</span>
+                        <span class="title">ERP and CRM Solutions</span>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
+           </section>
           <!--=================================
-          Client Logo -->
+          Marquee Slide -->
 
           <!--=================================
           History -->

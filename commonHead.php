@@ -4,7 +4,7 @@
     <meta name="description" content="IT Infinite - IT Solutions and Services Company HTML5 Template">
     <meta name="author" content="potenzaglobalsolutions.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Eltaa - Empowering Information</title>
+    <title>Eltaa - Empowering Innovations</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
     <!-- Google Font -->
