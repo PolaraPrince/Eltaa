@@ -166,7 +166,7 @@
               </div>
             </div>
             <div class="col-xxl-5 col-lg-4 align-self-end">
-              <p class="mb-0 ps-xxl-5">This is what we do, executed with perfection. Our dedication and expertise ensure every detail is flawless, setting the standard in our pursuit of excellence.</p>
+              <p class="mb-0 ps-xxl-5">At Eltaa, we provide cutting-edge IT solutions designed to empower businesses. From custom software development to system integrations, our expert team delivers tailored solutions that drive growth and innovation. Partner with us to navigate the ever-evolving tech landscape with confidence.</p>
             </div>
           </div>
 
@@ -212,7 +212,7 @@
                   <img class="img-fluid" src="images/about/about-08.png" alt="">
                 </div>
                 <div class="d-flex justify-content-end">
-                  <a class="btn btn-effect" href="#">
+                  <a class="btn btn-effect" href="about-us.php">
                     <span>About Us</span>
                     <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <g clip-path="url(#clip0_59_256)">
