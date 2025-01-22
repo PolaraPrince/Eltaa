@@ -34,7 +34,7 @@
             </div>
             <div class="col-md-6 ms-auto">
               <div class="banner-content">
-                <h2>Innovative Tech Solutions, Real Outcomes with Eltaa</h2>
+                <h2>Innovative Tech Solutions, Real Outcomes with Eltaa Innovations</h2>
                 <!-- <a class="btn btn-effect" href="contact-us.php">
                   <span>Get A Quote</span>
                   <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -166,7 +166,7 @@
               </div>
             </div>
             <div class="col-xxl-5 col-lg-4 align-self-end">
-              <p class="mb-0 ps-xxl-5">At Eltaa, we provide cutting-edge IT solutions designed to empower businesses. From custom software development to system integrations, our expert team delivers tailored solutions that drive growth and innovation. Partner with us to navigate the ever-evolving tech landscape with confidence.</p>
+              <p class="mb-0 ps-xxl-5">At Eltaa Innovations, we provide cutting-edge IT solutions designed to empower businesses. From custom software development to system integrations, our expert team delivers tailored solutions that drive growth and innovation. Partner with us to navigate the ever-evolving tech landscape with confidence.</p>
             </div>
           </div>
 
@@ -502,7 +502,7 @@
                 </div>
               </div>
               <div class="text-center mt-5">
-                <a class="btn btn-effect" href="#">
+                <a class="btn btn-effect" href="/projects.php">
                   <span>All Case Study</span>
                   <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_59_254)">
@@ -1004,7 +1004,7 @@
                 <div class="accordion" id="pgsaccordion">
                   <div class="accordion-item">
                     <h5 class="accordion-header" id="headingOne">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">01. How much does it costs to develop website with eltaa?</button>
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">01. How much does it costs to develop website with eltaa innovations?</button>
                     </h5>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#pgsaccordion">
                       <div class="accordion-body">The cost varies based on project's complexity and requirements. We provide personalized quotes after discussing your specific needs.</div>

@@ -16,7 +16,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
   <header class="header header-default header-sticky">
     <div class="header-inner">
       <div class="site-logo">
-        <a class="navbar-brand" href="index.php"><img class="img-fluid" src="" alt="" />Eltaa Innovations</a>
+        <a class="navbar-brand" href="index.php"><img class="img-fluid" src="/images/eltaa-logo.png" alt="Eltaa Innovations" /></a>
       </div>
       <div class="site-menu d-none d-xl-block">
         <ul class="main-menu">

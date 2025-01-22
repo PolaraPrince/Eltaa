@@ -117,7 +117,7 @@
         <div class="container">
           <div class="row  justify-content-center">
             <div class="col-md-12 text-center">
-              <h1 class="title">Digital Marketing Services</h1>
+              <h1 class="title">Our Services</h1>
               <p>Award-winning website design & creative digital agency services</p>
             </div>
           </div>
