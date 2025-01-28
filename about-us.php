@@ -88,13 +88,6 @@
                       </div>
                      </div>
                    </div>
-                   <div class="row mt-4 mt-sm-5">
-                    <div class="col-sm-6">
-                      <div class="counter counter-style-1">
-                        <div class="counter-number"><span class="timer mb-0" data-to="240" data-speed="2000">240</span><span class="suffix">+</span></div>
-                        <div class="counter-info"><span class="counter-title">Business Peoples</span></div>
-                      </div>
-                    </div>
                     <div class="col-sm-6">
                       <div class="counter counter-style-1">
                         <div class="counter-number"><span class="timer mb-0" data-to="100" data-speed="2000">100</span><span class="suffix">%</span></div>
@@ -365,5 +358,4 @@
     <script src="js/custom.js"></script> <!-- Template Scripts (Do not remove)-->
   </body>
 
-<!-- Mirrored from themes.potenzaglobalsolutions.com/html/it-infinite/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 08 Jan 2025 18:09:12 GMT -->
 </html>
