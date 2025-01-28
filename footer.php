@@ -41,7 +41,7 @@
                 <div class="widget widget-info">
                   <h5 class="widget-title">Call us on</h5>
                   <a class="number" href="tel:+1800555500">+91 8128505330</a>
-                  <h6 class="title">and get a free estimate</h6>
+                  <h6 class="title">To get a quote</h6>
                 </div>
                 <div class="widget-socail">
                   <ul class="socail-icon">

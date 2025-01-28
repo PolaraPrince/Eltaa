@@ -72,7 +72,7 @@
                 <div class="col-lg-7 mb-5 mb-lg-0">
                   <div class="section-title pb-0 pb-lg-4">
                     <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> About Us</span>
-                    <h2 class="title"> Your experience is everything to us </h2>
+                    <h2 class="title">Eltaa creates solutions that drive success </h2>
                   </div>
                    <div class="row">
                      <div class="col-sm-4">
@@ -151,7 +151,7 @@
 
           <!--=================================
           History -->
-          <section class="space-pt bg-black ellipse-top">
+          <!-- <section class="space-pt bg-black ellipse-top">
             <div class="space-pb ellipse-bottom">
               <div class="container">
                 <div class="row">
@@ -214,7 +214,7 @@
                 </div>
               </div>
             </div>
-          </section>
+          </section> -->
           <!--=================================
           History -->
 

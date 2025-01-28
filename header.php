@@ -174,8 +174,8 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <div class="offcanvas-body lenis-scroll-disable">
       <div class="body-inner">
         <div class="about-info">
-          <h4 class="title mb-3">Scalable Business for Startups</h4>
-          <p>Get the oars in the water and start rowing. Execution is the single biggest factor in achievement so the faster and better your execution.</p>
+          <h4 class="title mb-3">Collaborative Vision</h4>
+          <p>Looking for the perfect partner for your next project? Let’s connect and create something amazing!</p>
         </div>
         <div class="socail-info">
           <ul class="socail-list-item">
@@ -188,7 +188,6 @@ $current_page = basename($_SERVER['PHP_SELF']);
         <div class="contact-info">
           <span class="number">+91 9978886614</span>
           <a class="mail" href="#"><i class="fa-regular fa-envelope"></i>info@eltaa.com</a>
-          <span class="text">Looking for collaboration for your next creative project?</span>
         </div>
       </div>
     </div>

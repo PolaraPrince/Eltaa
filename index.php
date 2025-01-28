@@ -69,7 +69,7 @@
               </div>
             </div>
             <div class="col-xxl-5 col-lg-4 align-self-end">
-              <p class="mb-0 ps-xxl-5">This is what we do, executed with perfection. Our dedication and expertise ensure every detail is flawless, setting the standard in our pursuit of excellence.</p>
+              <p class="mb-0 ps-xxl-5">We provide a wide range of solutions and continuously enhance our offerings to support your company's growth.</p>
             </div>
           </div>
 
@@ -85,9 +85,10 @@
                       <h5 class="service-title">Web Development</h5>
                       <div class="list-wrapper">
                         <ul class="step-list list">
+                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">SEO</li>
                           <li><img class="img-fluid" src="images/arrow-right.png" alt="">Custom design</li>
                           <li><img class="img-fluid" src="images/arrow-right.png" alt="">Front-End development</li>
-                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">Business intelligence</li>
+                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">E-commerce site</li>
                         </ul>
                       </div>
                     </div>
@@ -104,7 +105,7 @@
                         <ul class="step-list list">
                           <li><img class="img-fluid" src="images/arrow-right.png" alt="">iOS</li>
                           <li><img class="img-fluid" src="images/arrow-right.png" alt="">Android</li>
-                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">Hybrid platform</li>
+                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">Cross platform</li>
                         </ul>
                       </div>
                     </div>
@@ -133,12 +134,11 @@
                       <img class="img-fluid" src="images/svg/services/Process-Automation.svg" alt="#">
                     </div>
                     <div class="service-content">
-                      <h5 class="service-title">Digital Marketing</h5>
+                      <h5 class="service-title">Enterprise Softwares</h5>
                       <div class="list-wrapper">
                         <ul class="step-list list">
-                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">Marketing Strategy</li>
-                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">Paid Media</li>
-                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">Influencer Marketing</li>
+                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">ERP</li>
+                          <li><img class="img-fluid" src="images/arrow-right.png" alt="">CRM</li>
                         </ul>
                       </div>
                     </div>
@@ -290,7 +290,7 @@
                   <h2 class="title">Smart strategy & excellent performance</h2>
                 </div>
                 <div class="ps-xxl-5 ms-0 ms-md-5 pb-5 pb-lg-0">
-                  <p class="mb-5">We all carry a lot of baggage, thanks to our upbringing. The majority of people carry with them, an entire series of self-limiting beliefs.</p>
+                  <p class="mb-5">Follow our streamlined process to bring your ideas to life efficiently and effectively.</p>
                   <a class="btn btn-effect" href="contact-us.php">
                     <span>Get Started</span>
                     <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -327,14 +327,14 @@
                   <div class="step-info">
                     <span class="step-number">Step 01</span>
                     <h3 class="step-title">Let us know your need</h3>
-                    <p>The bottom line is that we must shed the bad and replace with good beliefs.</p>
+                    <p>Sharing your vision helps us craft tailored solutions that fit perfectly.</p>
                     <div class="list-wrapper">
                       <ul class="step-list list col-2">
                         <li><img class="img-fluid" src="images/arrow-right.png" alt="" />E-commerce strategy</li>
                         <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Business intelligence</li>
                         <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Custom design</li>
                         <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Android</li>
-                        <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Brand collateral</li>
+                        <li><img class="img-fluid" src="images/arrow-right.png" alt="" />iOS</li>
                         <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Front-End development</li>
                       </ul>
                     </div>
@@ -358,13 +358,7 @@
                   <div class="step-info">
                     <span class="step-number">Step 02</span>
                     <h3 class="step-title">Meet the team</h3>
-                    <p>“Nothing changes until something moves” – this is the battle cry of author and journalist Robert Ringer.</p>
-                    <div class="list-wrapper">
-                      <ul class="step-list list col-2">
-                        <li><img class="img-fluid" src="images/arrow-right.png" alt="" />E-commerce strategy</li>
-                        <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Business intelligence</li>
-                      </ul>
-                    </div>
+                    <p>Connect with the minds dedicated to making your project a success.</p>
                     <div class="step-image"><img class="img-fluid" src="images/steps/02.png" alt=""></div>
                   </div>
                 </div>
@@ -384,15 +378,8 @@
                   </div>
                   <div class="step-info">
                     <span class="step-number">Step 03</span>
-                    <h3 class="step-title">Find Your Ideal Itinfinite</h3>
-                    <p>Get the oars in the water and start rowing. Execution is the single biggest factor in achievement.</p>
-                    <div class="list-wrapper">
-                      <ul class="step-list list col-2">
-                        <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Digital PR</li>
-                        <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Technical Operations</li>
-                        <li><img class="img-fluid" src="images/arrow-right.png" alt="" />Accounting Outsourcing</li>
-                      </ul>
-                    </div>
+                    <h3 class="step-title">Craft the Solution</h3>
+                    <p>This is where ideas take shape, Our collaborative efforts turn your concept into a fully functional, effective solution.</p>
                     <div class="step-image"><img class="img-fluid" src="images/steps/03.png" alt=""></div>
                   </div>
                 </div>
@@ -786,7 +773,7 @@
             <div class="col-md-10">
               <div class="section-title text-center">
                 <span class="sub-title justify-content-center"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> Our Testimonial</span>
-                <h2 class="title"> Over 500 clients and 5,000 projects across the globe.</h2>
+                <h2 class="title">Feedback That Drives Us</h2>
               </div>
             </div>
           </div>
