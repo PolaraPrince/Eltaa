@@ -398,8 +398,8 @@
           <div class="row justify-content-center">
             <div class="col-md-10">
               <div class="section-title text-center">
-                <span class="sub-title justify-content-center"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> Case Studies</span>
-                <h2 class="title"> What's next? our latest client stories</h2>
+                <span class="sub-title justify-content-center"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> Our Innovation</span>
+                <h2 class="title"> What's next? our latest Projects</h2>
               </div>
             </div>
           </div>
@@ -409,13 +409,13 @@
                 <div class="case-studies-wrapper case-studies-style-1">
                   <div class="case-studies-img">
                     <img class="img-fluid" src="images/case-studies/01.png" alt="" />
-                    <a href="#" class="category">Music</a>
+                    <a href="#" class="category">Website</a>
                   </div>
                   <div class="case-studies-info">
                     <div class="case-studies-info-inner">
-                      <h3 class="case-studies-title"><a href="#">Gozzby</a></h3>
+                      <h3 class="case-studies-title"><a href="#">Jalia Engineering</a></h3>
                       <div class="case-studies-content">
-                        <div class="case-studies-description">Some people will tell you there are four while others may tell you there are eight.</div>
+                        <div class="case-studies-description">Discover our latest project, Jaliya Engineering, where cutting-edge technology meets engineering excellence. Explore how we are transforming ideas into reality through innovative solutions and expert collaboration</div>
                       </div>
                       <div class="case-studies-link">
                         <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -436,13 +436,13 @@
                 <div class="case-studies-wrapper case-studies-style-1">
                   <div class="case-studies-img">
                     <img class="img-fluid" src="images/case-studies/02.png" alt="" />
-                    <a href="#" class="category">Education</a>
+                    <a href="#" class="category">Flutter</a>
                   </div>
                   <div class="case-studies-info">
                     <div class="case-studies-info-inner">
-                      <h3 class="case-studies-title"><a href="#">Petfluent</a></h3>
+                      <h3 class="case-studies-title"><a href="#">Food Zone</a></h3>
                       <div class="case-studies-content">
-                        <div class="case-studies-description">Some people will tell you there are four while others may tell you there are eight.</div>
+                        <div class="case-studies-description">Introducing Food Zone, our innovative Flutter app designed to enhance your culinary experience. Discover seamless meal planning, recipe sharing, and grocery management, all at your fingertips</div>
                       </div>
                       <div class="case-studies-link">
                         <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -463,13 +463,13 @@
                 <div class="case-studies-wrapper case-studies-style-1">
                   <div class="case-studies-img">
                     <img class="img-fluid" src="images/case-studies/03.png" alt="" />
-                    <a href="#" class="category">Pet Care</a>
+                    <a href="#" class="category">Shopify</a>
                   </div>
                   <div class="case-studies-info">
                     <div class="case-studies-info-inner">
-                      <h3 class="case-studies-title"><a href="#">Mobifluent</a></h3>
+                      <h3 class="case-studies-title"><a href="#">MyDitto</a></h3>
                       <div class="case-studies-content">
-                        <div class="case-studies-description">Some people will tell you there are four while others may tell you there are eight.</div>
+                        <div class="case-studies-description">Introducing MyDitto, our powerful Shopify app designed to streamline your e-commerce experience. Enhance your online store with seamless integration, improved inventory management, and personalized customer engagement!</div>
                       </div>
                       <div class="case-studies-link">
                         <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
