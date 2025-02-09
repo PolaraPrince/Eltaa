@@ -489,7 +489,7 @@
                 </div>
               </div>
               <div class="text-center mt-5">
-                <a class="btn btn-effect" href="/projects.php">
+                <a class="btn btn-effect" href="projects.php">
                   <span>All Case Study</span>
                   <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_59_254)">
@@ -791,12 +791,33 @@
                     </div>
                     <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
                     <div class="testimonial-content">
-                      <p>The IT-Hub database has been one of our current sources for recruitment, backed by a very experienced team who would go out of their way to make sure that requests are taken ahead.</p>
+                      <p>We recently worked with Eltaa Innovations to develop a custom website for our import-export business, and the results have been outstanding. The website provides us with a simple, clear, and professional online presence that showcases our services, products, and business information without unnecessary complexity</p>
                     </div>
                     <div class="testimonial-author">
                       <div class="author-info">
-                        <h6 class="author-name">Key Benefits</h6>
-                        <span class="author-position">Administrator</span>
+                        <h6 class="author-name">Kevin Dobariya</h6>
+                        <span class="author-position">CEO-GlobeDocks international</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="testimonial-wrapper testimonial-style-2">
+                    <div class="testimonial-ratings">
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
+                    <div class="testimonial-content">
+                      <p>We couldn't be more thrilled with the exceptional work done by Eltaa Innovations in developing our toy shop website on Shopify. The site is not only visually appealing and user-friendly, but it's also highly functional,making it easy for our customers to browse and purchase their favorite toys.</p>
+                    </div>
+                    <div class="testimonial-author">
+                      <div class="author-info">
+                        <h6 class="author-name">Team</h6>
+                        <span class="author-position">MyDitto</span>
                       </div>
                     </div>
                   </div>
@@ -812,38 +833,17 @@
                     </div>
                     <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
                     <div class="testimonial-content">
-                      <p>The IT-Hub database has been one of our current sources for recruitment, backed by a very experienced team who would go out of their way to make sure that requests are taken ahead.</p>
+                      <p>We are extremely impressed with the website Eltaa Innovations created for our bean business using WordPress. The level of professionalism and attention to detail exceeded our expectations, and we’ve already seen an increase in online orders.</p>
                     </div>
                     <div class="testimonial-author">
                       <div class="author-info">
-                        <h6 class="author-name">Joanna williams</h6>
-                        <span class="author-position">Consultant</span>
+                        <h6 class="author-name">Jaydip Mungra</h6>
+                        <span class="author-position">CEO-DesiBeans</span>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="item">
-                  <div class="testimonial-wrapper testimonial-style-2">
-                    <div class="testimonial-ratings">
-                      <i class="fa-solid fa-star"></i>
-                      <i class="fa-solid fa-star"></i>
-                      <i class="fa-solid fa-star"></i>
-                      <i class="fa-solid fa-star"></i>
-                      <i class="fa-regular fa-star"></i>
-                    </div>
-                    <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
-                    <div class="testimonial-content">
-                      <p>The IT-Hub database has been one of our current sources for recruitment, backed by a very experienced team who would go out of their way to make sure that requests are taken ahead.</p>
-                    </div>
-                    <div class="testimonial-author">
-                      <div class="author-info">
-                        <h6 class="author-name">Anne Smith</h6>
-                        <span class="author-position">Officer</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="item">
+                <!-- <div class="item">
                   <div class="testimonial-wrapper testimonial-style-2">
                     <div class="testimonial-ratings">
                       <i class="fa-solid fa-star"></i>
@@ -863,7 +863,7 @@
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
