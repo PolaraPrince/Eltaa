@@ -52,7 +52,7 @@
 
     <!--=================================
         Page Header -->
-    <div class="inner-header bg-holder" style="background-image: url(images/banner/inner-header/page-header-01.jpg);">
+    <div class="inner-header bg-holder" style="background-image: url(images/banner/banner-01/bannerelta.jpg);">
       <div class="container">
         <div class="row  justify-content-center">
           <div class="col-md-12 text-center">
