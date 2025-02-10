@@ -34,7 +34,7 @@
             </div>
             <div class="col-md-6 ms-auto">
               <div class="banner-content">
-                <h2>Innovative Tech Solutions, Real Outcomes with Eltaa Innovations</h2>
+                <h3>Innovative Tech Solutions, Real Outcomes with Eltaa Innovations</h3>
                 <!-- <a class="btn btn-effect" href="contact-us.php">
                   <span>Get A Quote</span>
                   <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">

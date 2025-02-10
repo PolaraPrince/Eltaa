@@ -59,12 +59,12 @@ $current_page = basename($_SERVER['PHP_SELF']);
                   <li><a class="nav-link" href="case-studies-detail.php">Case Studies Single</a></li>
                 </ul>
               </li> -->
-          <li class="nav-item <?= ($current_page == 'blog.php') ? 'active' : '' ?>"><a class="nav-link" href="blog.php">Blog</i></a>
-            <!-- <ul class="submenu">
+          <!-- <li class="nav-item <?= ($current_page == 'blog.php') ? 'active' : '' ?>"><a class="nav-link" href="blog.php">Blog</i></a>
+            <ul class="submenu">
               <li><a class="nav-link" href="blog.php">Blog Standard</a></li>
               <li><a class="nav-link" href="blog-detail.php">Blog Single</a></li>
-            </ul> -->
-          </li>
+            </ul> 
+          </li> -->
           <li class="nav-item <?= ($current_page == 'contact-us.php') ? 'active' : '' ?>"><a class="nav-link" href="contact-us.php">Contact</a></li>
         </ul>
       </div>
@@ -97,7 +97,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
       Main Menu OffCanvas -->
   <div class="offcanvas main-menu-offcanvas offcanvas-end" tabindex="-1" id="menuOffcanvas" aria-labelledby="menuOffcanvasLabel">
     <div class="offcanvas-header">
-      <a id="menuOffcanvasLabel" class="navbar-brand" href="index.php"><img class="img-fluid" src="images/logo.svg" alt="logo" /></a>
+      <a id="menuOffcanvasLabel" class="navbar-brand" href="index.php"><img class="img-fluid" src="images/eltaa-logo.png" alt="logo" /></a>
       <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
     </div>
     <div class="offcanvas-body lenis-scroll-disable">
@@ -105,17 +105,12 @@ $current_page = basename($_SERVER['PHP_SELF']);
         <nav class="navbar">
           <ul class="navbar-nav">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Home</a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="index.php">Home 01</a></li>
-                <li><a class="dropdown-item" href="index-02.php">Home 02</a></li>
-                <li><a class="dropdown-item" href="index-03.php">Home 03</a></li>
-              </ul>
+              <a class="nav-link dropdown-toggle" href="index.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">Home</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Pages</a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="about-us.php">About Us</a></li>
+              <a class="nav-link dropdown-toggle" href="about-us.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+              <!-- <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="about-us.php">About</a></li>
                 <li><a class="dropdown-item" href="pricing.php">Pricing</a></li>
                 <li><a class="dropdown-item" href="careers.php">Careers</a></li>
                 <li><a class="dropdown-item active" href="contact-us.php">Contact</a></li>
@@ -127,29 +122,29 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <li><a class="dropdown-item" href="page-right-sidebar.php">Page Right Sidebar</a></li>
                 <li><a class="dropdown-item" href="error-404.php">Error 404</a></li>
                 <li><a class="dropdown-item" href="coming-soon.php">Coming Soon</a></li>
-              </ul>
+              </ul> -->
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Service</a>
-              <ul class="dropdown-menu">
+              <a class="nav-link dropdown-toggle" href="projects.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projects</a>
+              <!-- <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="service.php">Service</a></li>
                 <li><a class="dropdown-item" href="service-detail.php">Service Single</a></li>
-              </ul>
+              </ul> -->
             </li>
-            <li class="nav-item dropdown">
+            <!-- <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Case Studies</a>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="case-studies.php">Case Studies</a></li>
                 <li><a class="dropdown-item" href="case-studies-detail.php">Case Studies Single</a></li>
               </ul>
-            </li>
-            <li class="nav-item dropdown">
+            </li> -->
+            <!-- <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Blog</a>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="blog.php">Blog Standard</a></li>
                 <li><a class="dropdown-item" href="blog-detail.php">Blog Single</a></li>
               </ul>
-            </li>
+            </li> -->
             <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact</a></li>
           </ul>
         </nav>
