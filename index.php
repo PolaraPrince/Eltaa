@@ -435,7 +435,7 @@
                 </div>
                 <div class="case-studies-wrapper case-studies-style-1">
                   <div class="case-studies-img">
-                    <img class="img-fluid" src="images/case-studies/02.png" alt="" />
+                    <img class="img-fluid" src="images/projects-img/foodapp.png" alt="" />
                     <a href="#" class="category">Flutter</a>
                   </div>
                   <div class="case-studies-info">
@@ -462,17 +462,17 @@
                 </div>
                 <div class="case-studies-wrapper case-studies-style-1">
                   <div class="case-studies-img">
-                    <img class="img-fluid" src="images/case-studies/03.png" alt="" />
+                    <img class="img-fluid" src="images/projects-img/myditto.png" alt="" />
                     <a href="#" class="category">Shopify</a>
                   </div>
                   <div class="case-studies-info">
                     <div class="case-studies-info-inner">
-                      <h3 class="case-studies-title"><a href="#">MyDitto</a></h3>
+                      <h3 class="case-studies-title"><a href="https://myditto.store/">MyDitto</a></h3>
                       <div class="case-studies-content">
                         <div class="case-studies-description">Introducing MyDitto, our powerful Shopify app designed to streamline your e-commerce experience. Enhance your online store with seamless integration, improved inventory management, and personalized customer engagement!</div>
                       </div>
                       <div class="case-studies-link">
-                        <a class="btn-arrow" href="#"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <a class="btn-arrow" href="https://myditto.store/"><svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_923_135)">
                               <path d="M8.70801 0.959961L9.29825 2.7665C10.2512 5.68321 12.8308 7.77453 15.8928 8.1128C12.8468 8.37564 10.2578 10.4348 9.3276 13.3343L8.70801 15.2657" stroke="inherit" stroke-width="2" />
                               <path d="M15.7602 8.12158H0.1875" stroke="inherit" stroke-width="2" />
