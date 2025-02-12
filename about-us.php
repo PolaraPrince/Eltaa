@@ -7,36 +7,6 @@
 
   <?php include 'header.php'; ?>
 
-  <!--=================================
-      Header Side Panel -->
-  <div class="offcanvas offcanvas-end sidepanel-offcanvas" tabindex="-1" id="offcanvasRight">
-    <div class="offcanvas-header">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
-    </div>
-
-    <div class="offcanvas-body lenis-scroll-disable">
-      <div class="body-inner">
-        <div class="about-info">
-          <h4 class="title mb-3">Scalable Business for Startups</h4>
-          <p>Get the oars in the water and start rowing. Execution is the single biggest factor in achievement so the faster and better your execution.</p>
-        </div>
-        <div class="socail-info">
-          <ul class="socail-list-item">
-            <li><a href="#"><i class="fa-brands fa-facebook-f"></i>Facebook</a></li>
-            <li><a href="#"><i class="fa-brands fa-instagram"></i>Instagram</a></li>
-            <li><a href="#"><i class="fa-brands fa-x-twitter"></i>Twitter</a></li>
-            <li><a href="#"><i class="fa-brands fa-dribbble"></i>Dribbble</a></li>
-          </ul>
-        </div>
-        <div class="contact-info">
-          <span class="number">+91 9978886614</span>
-          <a class="mail" href="#"><i class="fa-regular fa-envelope"></i>info@gmail.com</a>
-          <span class="text">Looking for collaboration for your next creative project?</span>
-        </div>
-      </div>
-    </div>
-  </div>
-
 
   <div class="site-content">
 
@@ -52,7 +22,7 @@
 
     <!--=================================
         Page Header -->
-    <div class="inner-header bg-holder" style="background-image: url(images/banner/banner-01/bannerelta.jpg);">
+    <div class="inner-header bg-holder" style="background-image: url(images/banner/banner-02/bg.jpg);">
       <div class="container">
         <div class="row  justify-content-center">
           <div class="col-md-12 text-center">
@@ -116,112 +86,229 @@
       </section>
       <!--=================================
           About Info -->
-
-      <!--=================================
-          Marquee Slide -->
-      <section class="space-small-ptb overflow-hidden z-index-2 bg-black">
-        <div class="container-fluid g-0 pt-5">
-          <div class="row g-0">
-            <div class="col-md-12">
-              <div class="marquee-wrapper marquee-border marquee-rotate">
-                <div class="marquee-inner">
-                  <div class="marquee-item">
-                    <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
-                    <span class="title">Web Development</span>
-                  </div>
-                  <div class="marquee-item">
-                    <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
-                    <span class="title">UI/UX Design</span>
-                  </div>
-                  <div class="marquee-item">
-                    <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
-                    <span class="title">App Developer</span>
-                  </div>
-                  <div class="marquee-item">
-                    <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
-                    <span class="title">IOS Apps</span>
-                  </div>
-                  <div class="marquee-item">
-                    <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
-                    <span class="title">ERP and CRM Solutions</span>
+<!--================================= 
+    Technologies We Work With -->
+<section class="space-small-ptb overflow-hidden z-index-2 bg-black">
+  <div class="container-fluid g-0 pt-5">
+    <div class="row g-0">
+      <div class="col-md-12">
+        <div class="section-title pb-0 pb-lg-4 text-center" style="margin-left: 40px;">
+          <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt="">Technologies We Work With</span>
+        </div>
+        
+        <div class="accordion" id="frontendAccordion">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFrontend">
+              <button class="accordion-button collapsed" data-cursor-type="text" data-custom-text="Tap" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFrontend" aria-expanded="false" aria-controls="collapseFrontend">
+                <span class="accordion-icon"></span> Frontend Technologies
+              </button>
+            </h2>
+            <div id="collapseFrontend" class="accordion-collapse collapse" aria-labelledby="headingFrontend" data-bs-parent="#frontendAccordion">
+              <div class="accordion-body">
+                <div class="marquee-wrapper marquee-border marquee-rotate">
+                  <div class="marquee-inner">
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">HTML5</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
+                      <span class="title">CSS</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">JavaScript</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">React</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
+                      <span class="title">Next.js</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">HTML5</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
+                      <span class="title">CSS</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">JavaScript</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">React</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
+                      <span class="title">Next.js</span>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
-      <!--=================================
-          Marquee Slide -->
 
-      <!--=================================
-          History -->
-      <!-- <section class="space-pt bg-black ellipse-top">
-            <div class="space-pb ellipse-bottom">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-5">
-                    <div class="sticky-top" style="top: 80px;">
-                    <div class="section-title mb-0">
-                      <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt="" /> Our History</span>
-                      <h2 class="title">Our History</h2>
-                    </div >
-                    <p class="mb-5 mb-lg-0 ms-lg-5">Positive pleasure-oriented goals are much more powerful motivators than negative fear-based ones. Although each is successful separately, the right combination of both is the most powerful motivational force known to humankind.</p>
+        <div class="accordion mt-4" id="backendAccordion">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingBackend">
+              <button class="accordion-button collapsed" data-cursor-type="text" data-custom-text="Tap" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBackend" aria-expanded="false" aria-controls="collapseBackend">
+                <span class="accordion-icon"></span> Backend Technologies
+              </button>
+            </h2>
+            <div id="collapseBackend" class="accordion-collapse collapse" aria-labelledby="headingBackend" data-bs-parent="#backendAccordion">
+              <div class="accordion-body">
+                <div class="marquee-wrapper marquee-border marquee-rotate">
+                  <div class="marquee-inner">
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">C#</span>
                     </div>
-                  </div>
-                  <div class="col-lg-7">
-                    <div class="history-wrapper">
-                      <div class="history-year-sm">2021</div>
-                      <div class="history-info">
-                        <div class="history-year-lg">2021</div>
-                        <div class="history-content">
-                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
-                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
-                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
-                        </div>
-                      </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
+                      <span class="title">PHP</span>
                     </div>
-                    <div class="history-wrapper mt-4 mb-4">
-                      <div class="history-year-sm">2022</div>
-                      <div class="history-info">
-                        <div class="history-year-lg">2022</div>
-                        <div class="history-content">
-                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
-                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
-                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
-                        </div>
-                      </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">NodeJs</span>
                     </div>
-                    <div class="history-wrapper mt-4 mb-4">
-                      <div class="history-year-sm">2023</div>
-                      <div class="history-info">
-                        <div class="history-year-lg">2023</div>
-                        <div class="history-content">
-                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
-                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
-                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
-                        </div>
-                      </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">Python</span>
                     </div>
-                    <div class="history-wrapper">
-                      <div class="history-year-sm">2024</div>
-                      <div class="history-info">
-                        <div class="history-year-lg">2024</div>
-                        <div class="history-content">
-                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
-                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
-                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
-                        </div>
-                      </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">C#</span>
                     </div>
-
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon2.png" alt="" /></span>
+                      <span class="title">PHP</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">NodeJs</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">Python</span>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-          </section> -->
-      <!--=================================
-          History -->
+          </div>
+        </div>
+
+        <div class="accordion mt-4" id="dbAccordion">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingDatabase">
+              <button class="accordion-button collapsed" data-cursor-type="text" data-custom-text="Tap" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDatabase" aria-expanded="false" aria-controls="collapseDatabase">
+                <span class="accordion-icon"></span> Database Technologies
+              </button>
+            </h2>
+            <div id="collapseDatabase" class="accordion-collapse collapse" aria-labelledby="headingDatabase" data-bs-parent="#dbAccordion">
+              <div class="accordion-body">
+                <div class="marquee-wrapper marquee-border marquee-rotate">
+                  <div class="marquee-inner">
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">MySQL</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">MongoDB</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
+                      <span class="title">MsSQL</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">SQLite</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">MySQL</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">MongoDB</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
+                      <span class="title">MsSQL</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">SQLite</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion mt-4" id="FrameworkAccordion">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFramework">
+              <button class="accordion-button collapsed" data-cursor-type="text" data-custom-text="Tap" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFramework" aria-expanded="false" aria-controls="collapseFramework">
+                <span class="accordion-icon"></span> Frameworks
+              </button>
+            </h2>
+            <div id="collapseFramework" class="accordion-collapse collapse" aria-labelledby="headingFramework" data-bs-parent="#FrameworkAccordion">
+              <div class="accordion-body">
+                <div class="marquee-wrapper marquee-border marquee-rotate">
+                  <div class="marquee-inner">
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">Laravel</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">Angular</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
+                      <span class="title">Asp.net</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">Express.js</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon3.png" alt="" /></span>
+                      <span class="title">Laravel</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon4.png" alt="" /></span>
+                      <span class="title">Angular</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon5.png" alt="" /></span>
+                      <span class="title">Asp.net</span>
+                    </div>
+                    <div class="marquee-item">
+                      <span class="icon"><img class="img-fluid" src="images/client-logo/brand-icon1.png" alt="" /></span>
+                      <span class="title">Express.js</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--================================= 
+    Technologies We Work With -->
 
       <!--=================================
           Our Testimonial -->

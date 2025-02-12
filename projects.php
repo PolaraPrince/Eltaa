@@ -12,7 +12,7 @@
   <div class="site-content">
     <!--=================================
         Page Header -->
-    <div class="inner-header bg-holder" style="background-image: url(images/banner/inner-header/page-header-01.jpg);">
+    <div class="inner-header bg-holder" style="background-image: url(images/banner/banner-03/backG.jpg);">
       <div class="container">
         <div class="row  justify-content-center">
           <div class="col-md-12 text-center">
@@ -129,14 +129,14 @@
             <div class="col-xl-5 col-lg-5">
               <div class="section-title mb-4 mb-lg-0">
                 <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> Case Studies</span>
-                <h2 class="title"> Projects For Our Amazing Clients</h2>
+                <h2 class="title"> Projects of Our Amazing Clients</h2>
               </div>
             </div>
             <div class="col-xl-5 col-lg-4">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+              <p>Explore a selection of our completed projects that showcase our expertise in delivering tailored solutions. From innovative web development to robust software applications, we help businesses succeed with cutting-edge technology. Let our work speak for itself.</p>
             </div>
             <div class="col-xl-2 col-lg-3 text-end">
-              <a class="btn btn-effect" href="#">
+              <a class="btn btn-effect" href="about-us.php">
                 <span>About Us</span>
                 <svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <g clip-path="url(#clip0_59_255)">
@@ -172,7 +172,7 @@
                           </defs>
                         </svg></a></div>
                   </div>
-                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/01.png" alt="" style="scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
+                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/globedocks.png" alt="" style="width : 550px; height:auto; scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
                   <div class="marquee-wrapper">
                     <div class="marquee-inner">
                       <div class="marquee-item">
@@ -215,7 +215,7 @@
                           </defs>
                         </svg></a></div>
                   </div>
-                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/02.png" alt="" style="scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
+                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/Jaliaengineering.png" alt="" style="width: 550px; height:auto; scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
                   <div class="marquee-wrapper">
                     <div class="marquee-inner">
                       <div class="marquee-item">
@@ -257,7 +257,7 @@
                           </defs>
                         </svg></a></div>
                   </div>
-                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/03.png" alt="" style="scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
+                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/Thermo.png" alt="" style="width: 550px; height:auto; scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
                   <div class="marquee-wrapper">
                     <div class="marquee-inner">
                       <div class="marquee-item">
@@ -299,7 +299,7 @@
                           </defs>
                         </svg></a></div>
                   </div>
-                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/01.png" alt="" style="scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
+                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/01.png" alt="" style="width: 550px; height:auto; scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
                   <div class="marquee-wrapper">
                     <div class="marquee-inner">
                       <div class="marquee-item">
@@ -341,7 +341,7 @@
                           </defs>
                         </svg></a></div>
                   </div>
-                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/02.png" alt="" style="scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
+                  <div class="case-studies-image"><img class="img-fluid gsap-img-animation" src="images/case-studies/02.png" alt="" style="width: 550px; height:auto;scale: none; transform: translate(-50%, -50%) translate(746px, 498px); opacity: 0; visibility: hidden;"></div>
                   <div class="marquee-wrapper">
                     <div class="marquee-inner">
                       <div class="marquee-item">
