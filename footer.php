@@ -47,7 +47,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6">
-          <p><a class="footer-logo" href="index.php"><img class="img-fluid" src="/images/eltaa-logo.png" alt="Eltaa Innovations" /></a></p>
+          <p><a class="footer-logo" href="index.php"><img class="img-fluid" style=" max-width: 250px; width: auto; height: auto; display: block;" src="images/eltaaIcon.png" alt="Eltaa Innovations" /></a></p>
         </div>
         <div class="col-lg-6 text-lg-end">
           <p>Develop and design by <a target="_blank" href="https://eltaa.com">Eltaa Innovations</a></p>
@@ -56,3 +56,25 @@
     </div>
   </div>
 </footer>
+<style>
+  /* Logo CSS */
+.site-logo img {
+    max-width: 250px;
+    width: auto;     
+    height: auto;    
+    display: block;  
+}
+
+/* Additional adjustments for responsiveness */
+@media (max-width: 1200px) {
+    .site-logo img {
+        max-width: 220px;  /* Make the logo slightly smaller on medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .site-logo img {
+        max-width: 200px;  /* Further reduce the logo size on smaller screens */
+    }
+}
+</style>

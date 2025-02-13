@@ -1,22 +1,40 @@
 <?php
 $current_page = basename($_SERVER['PHP_SELF']);
 ?>
-<!--=================================
-    cursor -->
+<!--cursor -->
 <div id="cursor">
   <div class="cursor__circle"></div>
 </div>
-<!--=================================
-    cursor -->
+<!--cursor -->
 
 <div id="page" class="main">
 
+<style>
+.site-logo img {
+    max-width: 250px;  
+    width: auto; 
+    height: auto;    
+    display: block;   
+}
+
+@media (max-width: 1200px) {
+    .site-logo img {
+        max-width: 220px; 
+    }
+}
+
+@media (max-width: 768px) {
+    .site-logo img {
+        max-width: 200px; 
+    }
+}
+</style>
   <!--=================================
       Header -->
   <header class="header header-default header-sticky">
     <div class="header-inner">
       <div class="site-logo">
-        <a class="navbar-brand" href="index.php"><img class="img-fluid" src="/images/eltaa-logo.png" alt="Eltaa Innovations" /></a>
+        <a class="navbar-brand" href="index.php"><img class="img-fluid" style="display: block; width:auto; height: auto;" src="images/eltaaIcon.png" alt="Eltaa Innovations" /></a>
       </div>
       <div class="site-menu d-none d-xl-block">
         <ul class="main-menu">
@@ -59,7 +77,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
       Main Menu OffCanvas -->
   <div class="offcanvas main-menu-offcanvas offcanvas-end" tabindex="-1" id="menuOffcanvas" aria-labelledby="menuOffcanvasLabel">
     <div class="offcanvas-header">
-      <a id="menuOffcanvasLabel" class="navbar-brand" href="index.php"><img class="img-fluid" src="images/eltaa-logo.png" alt="logo" /></a>
+      <a id="menuOffcanvasLabel" class="navbar-brand" href="index.php"><img class="img-fluid" src="images/eltaaIcon.png" alt="logo" /></a>
       <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
     </div>
     <div class="offcanvas-body lenis-scroll-disable">
